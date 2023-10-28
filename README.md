@@ -1,11 +1,20 @@
-- 👋 Hi, I’m Spencer Brian Baiden
-- 👀 I’m interested in getting into anything backend and data analytics.
-- 🌱 I’m currently working on multiple projects to improve my skills.
-- 💞️ I’m looking to collaborate on anything minimal for now.
-- 📫 You can contact me through my email brainbaiden15@gmail.com or for a fun version, check out my tiktoks under my name.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spencerbbrian&label=Profile%20views&color=brightgreen&style=plastic" alt="S" /> </p>
 
 
-<!---
-spencerbbrian/spencerbbrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Experienced data analyst with an interest for aviation and city planning.</h3>
+
+- 🔭 Currently searching for data analyst roles 😋
+- 🌱 Currently learning skills for analytics engineering 
+- 🏁 I'm looking forward to learning: `Docker`.
+- 💬 Ask me about: Data Analytics 😎
+- ⚡ Fun fact: I'm probably spending an hour on documenting my projects! 😅
+
+
+<h3 align="left">⚙ My Tech Stack:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,mysql,mongodb,postgres,sqlite,selenium,powershelltheme=dark)](https://skillicons.dev)
+
+<h3>🗨 Lets connect :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/spencer-brian-baiden-a740a8164/)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/spencerbrian_)
