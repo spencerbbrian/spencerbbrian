@@ -1,18 +1,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spencerbbrian&label=Profile%20views&color=brightgreen&style=plastic" alt="S" /> </p>
 
 
-<h3 align="left">Experienced data analyst with in big data and engineering warehousing.</h3>
+<h3 align="left">Data Analyst & Engineer</h3>
 
-- 🔭 Currently chilling.
-- ⚙  And learning skills for analytics engineering 
-- 🏁 I'm looking forward to learning: `Docker`.
-- 💬 Ask me about: Data Analytics 😎
+- 🔭 Currently working on a university database management systems.
+- ⚙  And getting back to building web pages solely for displaying my projects. 
+- 🏁 I'm learning 6 things at once and tired. 
+- 💬 Ask me about to do with sleeping. 😎
 - ⚡ Fun fact: I'm probably spending an hour on documenting my projects! 😅
 
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,mysql,mongodb,postgres,sqlite,selenium,powershelltheme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,vscode,mysql,mongodb,postgres,sqlite,selenium,flask,postman,bootstrap,powershelltheme=dark)](https://skillicons.dev)
 
 <h3>🗨 Lets connect :</h3>
 
