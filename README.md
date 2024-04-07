@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm probably spending an hour on documenting my projects! 😅
 
 
-<h3 align="left">⚙ My Tech Stack:</h3>
+<h3 align="center">⚙ My Tech Stack:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,vscode,mysql,mongodb,postgres,sqlite,selenium,flask,postman,bootstrap,powershelltheme=dark)](https://skillicons.dev)
 
