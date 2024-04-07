@@ -11,9 +11,9 @@
 
 
 <h3 align="left">⚙ My Tech Stack:</h3>
-<p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=python,html,vscode,mysql,mongodb,postgres,sqlite,selenium,flask,postman,bootstrap,powershelltheme=dark)](https://skillicons.dev)
-</p>
+
 <h3>🗨 Lets connect :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/spencer-brian-baiden-a740a8164/)
