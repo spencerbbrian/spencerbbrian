@@ -12,7 +12,7 @@
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,vscode,mysql,mongodb,postgres,sqlite,selenium,flask,postman,bootstrap,powershelltheme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,vscode,mysql,mongodb,gcp,postgres,sqlite,selenium,flask,postman,bootstrap,powershell,theme=dark)](https://skillicons.dev)
 
 <h3>🗨 Lets connect :</h3>
 
