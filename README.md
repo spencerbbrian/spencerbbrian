@@ -6,7 +6,7 @@
 - 🔭 Currently working on a university database management systems.
 - ⚙  And getting back to building web pages solely for displaying my projects. 
 - 🏁 I'm learning 6 things at once and tired. 
-- 💬 Ask me about to do with sleeping. 😎
+- 💬 Ask me about anything that has to do with sleeping. 😎
 - ⚡ Fun fact: I'm probably spending an hour on documenting my projects! 😅
 
 
